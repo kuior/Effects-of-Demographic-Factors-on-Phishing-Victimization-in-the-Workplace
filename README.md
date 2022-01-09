@@ -8,7 +8,11 @@
 if you find our work is useful in your research, please consider citing:
 
 @article{liu2020effects,
+
   title={Effects of Demographic Factors on Phishing Victimization in the Workplace},
+  
   author={Liu, Zhihui and Zhou, Lina and Zhang, Dongsong},
+  
   year={2020}
+  
 }
