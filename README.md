@@ -5,7 +5,7 @@
 - Performed logistic regression analysis to test the significant difference between the independent variables.
 
 # Citing
-if you find our work is useful in your research, please consider citing:
+If you find our work is useful in your research, please consider citing:
 
 @article{liu2020effects,
 
